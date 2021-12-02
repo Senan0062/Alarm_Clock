@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe.config
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.pdb
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Main.resources
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.exe
+C:\Users\HP\source\repos\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.pdb
